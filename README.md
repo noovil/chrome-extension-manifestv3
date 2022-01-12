@@ -6,7 +6,7 @@
 
 Step 1.
 
-Create a directory to contain all your files, I'll call this the root directory. In your root directory, create two folders, a src and dist folder. In the dist folder, create an index.js file that will serve as an entry point to all other dependencies.
+Create a directory to contain all your files, I'll call this the root directory. In your root directory, create two folders, a src and dist folder. In the source folder, create an index.js file that will serve as an entry point to all other dependencies.
 
 Step 2. 
 
