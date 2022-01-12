@@ -1,0 +1,28 @@
+{
+  "name": "firestore9-manifest-v3-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbrockman/webpack-manifest-v3-example.git"
+  },
+  "keywords": [
+    "webpack",
+    "manifest",
+    "v3",
+    "chrome",
+    "extension"
+  ],
+  "devDependencies": {
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "firebase": "^9.6.1"
+  }
+}
