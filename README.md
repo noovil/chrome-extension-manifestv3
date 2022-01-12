@@ -2,7 +2,7 @@
 
 ## If you have trouble accessing Firestore after migrating your extension to v3, this might help you.
 ## In manifest v3, Firestore does not work in a service worker, so it's recommended to use a module bundler like webpack.
-### I provided a sample code to show you how it looks like, but you should edit the files and run the following steps (the dist folder is not present until you run `npm run build`).
+### I provided a sample code to show you how it looks like, but you should edit the files and run the following steps (the dist folder is not present as it is empty before you run `npm run build`).
 
 Step 1.
 
